@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+.env
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# ML Model artifacts and binary caches
+models/
+*.joblib
+*.pkl
+
+# Logs
+logs/
+*.log
+
+# Pytest cache
+.pytest_cache/
